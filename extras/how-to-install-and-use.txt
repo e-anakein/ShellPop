@@ -4,7 +4,7 @@ system. If you are smart then you're using Kali already and dont need to worry
 with that.
 
 root@kali# mkdir -p ~/.msf4/modules/post/shellpop
-root@kali# cp extras/shell_to_meterpreter ~/.msf4/modules/post/shellpop
+root@kali# cp extras/shell_to_meterpreter.rb ~/.msf4/modules/post/shellpop
 
 #   Now boot metasploit-framework (msfconsole) and you will find the module in 
 
